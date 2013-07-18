@@ -1,0 +1,10 @@
+{
+	"name": "pony-l10n",
+	"version": "0.0.1",
+	"bin": {
+		"pony":"./bin/pony.js"
+	},
+	"dependencies": {
+		"optimist": "~0.6.0"
+	}
+}
